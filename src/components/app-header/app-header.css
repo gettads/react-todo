@@ -1,0 +1,14 @@
+.app-header {
+    align-items: flex-end;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.app-header h1 {
+    flex-grow: 1;
+}
+
+.app-header h2 {
+    font-size: 1.2rem;
+    color: #aaa;
+}
